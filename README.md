@@ -50,7 +50,7 @@ git clone https://github.com/BrunoMonteiro25/react-waiterApp.git
 Entre na pasta do projeto:  
 
 ```
-cd mobile
+cd web
 ```
 
 Instale as dependências:
