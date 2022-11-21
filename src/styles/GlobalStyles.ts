@@ -45,8 +45,8 @@ export const GlobalStyles = createGlobalStyle`
     font-family: GeneralSans, sans-serif;
   }
   body {
-    background: #333;
-    color: #fff;
+    background: #fafafa;
+    color: #333;
   }
   button {
     cursor: pointer;
