@@ -23,3 +23,44 @@ Veja o Mobile em: https://github.com/BrunoMonteiro25/react-native-waiterApp
 
 ![3](https://user-images.githubusercontent.com/98993736/203149782-e8f57ba1-4ae2-40f2-af67-e0a154a62f0d.png)
 
+
+### Funcionalidades :checkered_flag:
+
+- Listar todos os pedidos que foram criados na aplicação Mobile
+- Modal com os detalhes do pedido
+- Alterar status do pedido
+- Cancelar pedido
+
+### Tecnologias :computer:
+
+React, TypeScript, Styled Components
+
+### API :mag:
+
+Repositório da API utilizada na aplicação: https://github.com/BrunoMonteiro25/api-waiterApp
+
+### Como rodar a aplicação :arrow_forward:
+
+No terminal, clone o projeto: 
+
+```
+git clone https://github.com/BrunoMonteiro25/react-waiterApp.git
+```
+
+Entre na pasta do projeto:  
+
+```
+cd mobile
+```
+
+Instale as dependências:
+
+```
+yarn
+```
+
+Execute a aplicação:
+
+```
+yarn dev
+```
