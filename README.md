@@ -9,6 +9,7 @@ React + TypeScript + Styled Components
 Sistema web (WaiterApp) para restaurantes, que desenvolvi durante o evento (O poder do Javascript) do canal do youtube (Mateus Silva). 
 Nele é possível visualizar, alterar e cancelar os pedidos que foram gerados a partir da aplicação Mobile.
 
+
 Veja o Mobile em: https://github.com/BrunoMonteiro25/react-native-waiterApp
 
 #### Lista de pedidos
